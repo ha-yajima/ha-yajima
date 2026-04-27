@@ -1,16 +1,29 @@
-## Hi there 👋
+# Haruka Yajima
 
-<!--
-**ha-yajima/ha-yajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✉️ Message
+IT業界未経験から、現在は職業訓練校にてシステムの基礎を習得中です。
+前職での営業経験（4年半）を活かし、技術を手段として「現場の課題を論理的に解決できる」人材を目指しています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+職業訓練および自習にて、以下の技術を習得・学習しています。
+
+- **Languages / Database**
+  - **Java**
+  - **SQL**
+  - **PHP**
+  - **JavaScript**
+  - **HTML / CSS**
+- **Tools**
+  - **Eclipse** (Java開発)
+  - **VS Code** (フロントエンド)
+  - **MySQL**
+  - **Git / GitHub**
+
+---
+
+### 💬 About Me
+- **強み:** 大学では心理学を専攻しました。このバックグラウンドを活かし、前職の営業ではお客様の潜在的な困りごとを深く聴き出す「傾聴力」を強みに提案活動を行ってきました。ITの現場においても、ユーザーの要望を論理的に整理し、認識の齟齬がない丁寧なコミュニケーションを徹底することで、確実なシステム構築に貢献したいと考えています。
+- **趣味:** ダンス（チームで一つの作品を作り上げる達成感が好きです）。
+- **モットー:** 整合性の取れた、ミスのない確実な作業。
