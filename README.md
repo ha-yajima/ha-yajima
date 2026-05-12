@@ -35,6 +35,8 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - **概要:** デザイン性を重視した植物店の紹介サイト。
    - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
    - **使用技術:** HTML, CSS, JavaScript
+   - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45c60aa5-392d-45fe-8858-e081f32c3fa9" />
+
   
 3. **[カジノゲームシステム](https://github.com/ha-yajima/casino-game/blob/main/README.md)**
    - **概要:** 会員登録・ログイン機能を備えた、ポイント制カジノゲームのプラットフォーム。
