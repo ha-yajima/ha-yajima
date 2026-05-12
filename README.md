@@ -26,7 +26,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 ### 📂 Projects
 職業訓練での演習および制作物です。
 
-1. **[掲示板型SNS（チーム制作）](https://github.com/ha-yajima/sns-board)**
+1. **[掲示板型SNS（チーム制作）]([https://github.com/ha-yajima/sns-board](https://github.com/ha-yajima/sns-board/blob/main/README.md))**
    - **概要:** ユーザー登録、写真投稿、リポスト機能を備えた多機能コミュニティツール。
    - **ポイント:** Ajaxを用いたページ遷移なしの「いいね」機能や、複雑なSQL（UNION）によるリポスト・投稿混合表示など、実用的なデータ操作を実装しました。
    - **使用技術:** PHP, MySQL, JavaScript (Ajax),HTML/CSS
@@ -36,7 +36,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
    - **使用技術:** HTML, CSS, JavaScript
   
-3. **[カジノゲームシステム](https://github.com/ha-yajima/casino-game)**
+3. **[カジノゲームシステム](https://github.com/ha-yajima/casino-game/blob/main/README.md)**
    - **概要:** 会員登録・ログイン機能を備えた、ポイント制カジノゲームのプラットフォーム。
    - **ポイント:** DBと連動したユーザー認証および所持ポイントのリアルタイム更新ロジックを構築しました。
    - **使用技術:** PHP, MySQL, CSS
