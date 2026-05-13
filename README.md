@@ -30,8 +30,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - **概要:** ユーザー登録、写真投稿、リポスト機能を備えた多機能コミュニティツール。
    - **ポイント:** Ajaxを用いたページ遷移なしの「いいね」機能や、複雑なSQL（UNION）によるリポスト・投稿混合表示など、実用的なデータ操作を実装しました。
    - **使用技術:** PHP, MySQL, JavaScript (Ajax),HTML/CSS
-   <img width="1920" height="1080" alt="SNSlogin" src="https://github.com/user-attachments/assets/4910541d-c346-4113-a3c7-20020d90834f" />
-
+   <img width="1483" height="834" alt="SNSlogin" src="https://github.com/user-attachments/assets/acf4c44e-e94b-4a08-aaf8-fdaf0743c12c" />
    <img width="1408" height="792" alt="SNS" src="https://github.com/user-attachments/assets/f31aa3f9-876e-4339-9011-b5b69126d0e9" />
 
 
