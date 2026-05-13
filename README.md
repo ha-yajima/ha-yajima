@@ -38,7 +38,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 
 
 
-2. **[架空の植物ショップ ホームページ](https://ha-yajima.github.io/plants-shop/)**
+2. **[植物店 ホームページ](https://ha-yajima.github.io/plants-shop/)**
    - **概要:** デザイン性を重視した植物店の紹介サイト。
    - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
    - **使用技術:** HTML, CSS, JavaScript
