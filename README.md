@@ -30,7 +30,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 ### 📂 Projects
 職業訓練での演習および制作物です。
 
-1. **[掲示板型SNS（チーム制作）]👉(https://github.com/ha-yajima/sns-board/blob/main/README.md)**
+1. **[掲示板型SNS（チーム制作）](https://github.com/ha-yajima/sns-board/blob/main/README.md)**
    - **概要:** ユーザー登録、写真投稿、リポスト機能を備えた多機能コミュニティツール。
    - **ポイント:** Ajaxを用いたページ遷移なしの「いいね」機能や、複雑なSQL（UNION）によるリポスト・投稿混合表示など、実用的なデータ操作を実装しました。
    - **使用技術:** PHP, MySQL, JavaScript (Ajax),HTML/CSS
@@ -42,7 +42,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 
 
 
-2. **[植物店 ホームページ]👉(https://ha-yajima.github.io/plants-shop/)**
+2. **[植物店 ホームページ](https://ha-yajima.github.io/plants-shop/)**
    - **概要:** デザイン性を重視した植物店の紹介サイト。
    - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
    - **使用技術:** HTML, CSS, JavaScript
@@ -50,7 +50,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 
 
   
-3. **[カジノゲームシステム]👉(https://github.com/ha-yajima/casino-game/blob/main/README.md)**
+3. **[カジノゲームシステム](https://github.com/ha-yajima/casino-game/blob/main/README.md)**
    - **概要:** 会員登録・ログイン機能を備えた、ポイント制カジノゲームのプラットフォーム。
    - **ポイント:** DBと連動したユーザー認証および所持ポイントのリアルタイム更新ロジックを構築しました。
    - **使用技術:** PHP, MySQL, CSS
@@ -63,5 +63,4 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 
 ### 💬 About Me
 - **バックグラウンド:** 心理学専攻。人の話を構造的に聴き、課題の本質を整理することを得意としています。
-- **現在:** 職業訓練校にてJava・Python・SQL・HTML/CSS・JavaScriptを学習中。学んだことをTILに記録しています。
-- 👉 [TIL](https://github.com/ha-yajima/TIL)
+- **現在:** 職業訓練校にてJava・Python・SQL・HTML/CSS・JavaScriptを学習中。学んだことを[TIL](https://github.com/ha-yajima/TIL)に記録しています。
