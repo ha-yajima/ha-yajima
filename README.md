@@ -31,36 +31,22 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 職業訓練での演習および制作物です。
 
 1. **[掲示板型SNS（チーム制作）](https://github.com/ha-yajima/sns-board)**
-   - **概要:** ユーザー登録、写真投稿、リポスト機能を備えた多機能コミュニティツール。
-   - **ポイント:** Ajaxを用いたページ遷移なしの「いいね」機能や、複雑なSQL（UNION）によるリポスト・投稿混合表示など、実用的なデータ操作を実装しました。
-   - **使用技術:** PHP, MySQL, JavaScript (Ajax),HTML/CSS
-   <img width="1483" height="834" alt="SNSlogin" src="https://github.com/user-attachments/assets/acf4c44e-e94b-4a08-aaf8-fdaf0743c12c" />
-   <img width="1408" height="792" alt="SNS" src="https://github.com/user-attachments/assets/f31aa3f9-876e-4339-9011-b5b69126d0e9" />
-
-
-
-
-
+   - PHP / MySQL / JavaScript (Ajax) / HTML・CSS
+   - ログイン・返信機能・いいね（Ajax）を担当。
+     UNIONを用いた投稿・リポスト混合表示を実装。
+   <img alt="SNSlogin" src="https://github.com/user-attachments/assets/acf4c44e-e94b-4a08-aaf8-fdaf0743c12c" />
 
 2. **[植物店 ホームページ](https://ha-yajima.github.io/plants-shop/)**
-   - **概要:** デザイン性を重視した植物店の紹介サイト。
-   - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
-   - **使用技術:** HTML, CSS, JavaScript
-   <img width="1824" height="870" alt="plants" src="https://github.com/user-attachments/assets/2c7efa68-bc00-4811-bba7-f24072501ea4" />
-   <img width="1859" height="874" alt="plant-popup" src="https://github.com/user-attachments/assets/133ecfa7-c5e5-43e5-ae81-743ab0f53deb" />
+   - HTML / CSS / JavaScript
+   - ロゴ自作・商品ポップアップ・ハンバーガーメニューを実装。
+     デザイン全体を自分で手がけました。
+   <img alt="plants" src="https://github.com/user-attachments/assets/2c7efa68-bc00-4811-bba7-f24072501ea4" />
 
-
-
-  
 3. **[カジノゲームシステム](https://github.com/ha-yajima/casino-game)**
-   - **概要:** 会員登録・ログイン機能を備えた、ポイント制カジノゲームのプラットフォーム。
-   - **ポイント:** DBと連動したユーザー認証および所持ポイントのリアルタイム更新ロジックを構築しました。
-   - **使用技術:** PHP, MySQL, CSS
-   <img width="1224" height="688" alt="casino" src="https://github.com/user-attachments/assets/c3edd270-3ab1-4592-8085-3333718754c6" />
-   <img width="1483" height="834" alt="casinologin" src="https://github.com/user-attachments/assets/ff03d44e-1650-4284-ac04-5bce1852980b" />
-
-
-
+   - PHP / MySQL / JavaScript / CSS
+   - ブラックジャック・ランキング・アクティビティ履歴を実装。
+     SNS制作の経験を活かし個人で2日間で完成。
+   <img alt="casino" src="https://github.com/user-attachments/assets/c3edd270-3ad1-4592-8085-3333718754c6" />
 ---
 
 ### 💬 About Me
