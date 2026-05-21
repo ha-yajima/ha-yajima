@@ -47,6 +47,8 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - **ポイント:** JavaScriptを用いた動的なメニュー表示やスクロールエフェクトの実装。
    - **使用技術:** HTML, CSS, JavaScript
    <img width="1824" height="870" alt="plants" src="https://github.com/user-attachments/assets/2c7efa68-bc00-4811-bba7-f24072501ea4" />
+   <img width="1859" height="874" alt="plant-popup" src="https://github.com/user-attachments/assets/133ecfa7-c5e5-43e5-ae81-743ab0f53deb" />
+
 
 
   
