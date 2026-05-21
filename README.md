@@ -34,7 +34,8 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - PHP / MySQL / JavaScript (Ajax) / HTML・CSS
    - ログイン・返信機能・いいね（Ajax）を担当。
      UNIONを用いた投稿・リポスト混合表示を実装。
-   <img alt="SNSlogin" src="https://github.com/user-attachments/assets/acf4c44e-e94b-4a08-aaf8-fdaf0743c12c" />
+   <img width="1408" height="792" alt="SNS" src="https://github.com/user-attachments/assets/11495151-efae-4f2a-9721-b0e6918f2988" />
+
 
 2. **[植物店 ホームページ](https://ha-yajima.github.io/plants-shop/)**
    - HTML / CSS / JavaScript
