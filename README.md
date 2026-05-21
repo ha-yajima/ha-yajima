@@ -46,7 +46,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
    - PHP / MySQL / JavaScript / CSS
    - ブラックジャック・ランキング・アクティビティ履歴を実装。
      SNS制作の経験を活かし個人で2日間で完成。
-   <img alt="casino" src="https://github.com/user-attachments/assets/c3edd270-3ad1-4592-8085-3333718754c6" />
+   <img width="1224" height="688" alt="casino" src="https://github.com/user-attachments/assets/c3edd270-3ab1-4592-8085-3333718754c6" />
 ---
 
 ### 💬 About Me
