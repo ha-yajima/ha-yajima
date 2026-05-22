@@ -10,19 +10,24 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 ---
 
 ### 🛠 Skills & Tools
-職業訓練および自習にて、以下の技術を習得・学習しています。
 
-- **Languages / Database**
-  - **Java**
-  - **SQL**
-  - **PHP**
-  - **JavaScript**
-  - **HTML / CSS**
-- **Tools**
-  - **Eclipse** (Java開発)
-  - **VS Code** (フロントエンド)
-  - **MySQL**
-  - **GitHub**
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,eclipse,vscode,git,github)
+
+| カテゴリ | 技術 |
+|---|---|
+| Languages | Java / PHP / JavaScript / Python / HTML / CSS |
+| Database | MySQL / SQL |
+| Tools | Eclipse / VS Code / GitHub |
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-yajima&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-yajima&layout=compact&hide_border=true)
+
+---
+
 
 ---
 
