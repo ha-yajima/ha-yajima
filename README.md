@@ -23,6 +23,9 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
 
 ### 📊 GitHub Stats
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ha-yajima&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ha-yajima&theme=default)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ha-yajima&theme=default)
 
 ---
