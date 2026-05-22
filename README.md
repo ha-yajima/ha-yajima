@@ -22,7 +22,7 @@ IT業界未経験から、現在は職業訓練校にてシステムの基礎を
   - **Eclipse** (Java開発)
   - **VS Code** (フロントエンド)
   - **MySQL**
-  - **Git / GitHub**
+  - **GitHub**
 
 ---
 
